@@ -24,100 +24,7 @@
     <favorites_list name="demolaravel" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="home.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/home.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="42" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1711">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/HireMe/Entities/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="60" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1189">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="29" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0" vertical-offset="725" max-vertical-offset="986">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/AuthController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="9" selection-start="437" selection-end="437" vertical-scroll-proportion="-13.533334" vertical-offset="0" max-vertical-offset="870">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CandidatoTableSeeder.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/database/seeds/CandidatoTableSeeder.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="-16.8" vertical-offset="105" max-vertical-offset="1160">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Field.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/HireMe/Components/Field.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="38" selection-start="74" selection-end="74" vertical-scroll-proportion="-1.9333333" vertical-offset="0" max-vertical-offset="580">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FieldBuilders.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/HireMe/Components/FieldBuilders.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="44" selection-start="3127" selection-end="3127" vertical-scroll-proportion="0.7413214" vertical-offset="2847" max-vertical-offset="3857">
-              <folding>
-                <element signature="e#36#76#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/fields/default.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="10" selection-start="159" selection-end="159" vertical-scroll-proportion="-4.8333335" vertical-offset="0" max-vertical-offset="348">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FieldServiceProvider.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/HireMe/Components/FieldServiceProvider.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="519" selection-end="519" vertical-scroll-proportion="-19.333334" vertical-offset="0" max-vertical-offset="783">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="registro.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/registro.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="12" selection-start="622" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="957">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -864,30 +771,9 @@
         <state line="195" column="34" selection-start="7650" selection-end="7650" vertical-scroll-proportion="0.7402016" vertical-offset="4994" max-vertical-offset="5945" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1711">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="29" selection-start="929" selection-end="929" vertical-scroll-proportion="0.0" vertical-offset="725" max-vertical-offset="986">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/auth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="26" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5195969" vertical-offset="522" max-vertical-offset="2233" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HireMe/Entities/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="60" selection-start="740" selection-end="740" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1189">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/style.css">
@@ -904,54 +790,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/registro.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/HireMe/Components/FieldBuilders.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="622" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="957">
-          <folding />
+        <state line="100" column="9" selection-start="2430" selection-end="2430" vertical-scroll-proportion="0.059350505" vertical-offset="2847" max-vertical-offset="3857">
+          <folding>
+            <element signature="e#36#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/AuthController.php">
+    <entry file="file://$PROJECT_DIR$/app/HireMe/Components/Field.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="9" selection-start="437" selection-end="437" vertical-scroll-proportion="-13.533334" vertical-offset="0" max-vertical-offset="870">
+        <state line="2" column="38" selection-start="74" selection-end="74" vertical-scroll-proportion="0.06494961" vertical-offset="0" max-vertical-offset="893">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/seeds/CandidatoTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="-16.8" vertical-offset="105" max-vertical-offset="1160">
+        <state line="23" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="0.5643897" vertical-offset="105" max-vertical-offset="1160">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/HireMe/Components/Field.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/AuthController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="38" selection-start="74" selection-end="74" vertical-scroll-proportion="-1.9333333" vertical-offset="0" max-vertical-offset="580">
+        <state line="19" column="9" selection-start="437" selection-end="437" vertical-scroll-proportion="0.45464724" vertical-offset="0" max-vertical-offset="893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="29" selection-start="929" selection-end="929" vertical-scroll-proportion="0.7077268" vertical-offset="93" max-vertical-offset="986">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HireMe/Entities/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="60" selection-start="740" selection-end="740" vertical-scroll-proportion="0.64277714" vertical-offset="296" max-vertical-offset="1189">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="42" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1711">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/fields/default.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="10" selection-start="159" selection-end="159" vertical-scroll-proportion="-4.8333335" vertical-offset="0" max-vertical-offset="348">
+        <state line="5" column="10" selection-start="159" selection-end="159" vertical-scroll-proportion="0.16237402" vertical-offset="0" max-vertical-offset="893">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/HireMe/Components/FieldServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="519" selection-end="519" vertical-scroll-proportion="-19.333334" vertical-offset="0" max-vertical-offset="783">
+        <state line="20" column="0" selection-start="519" selection-end="519" vertical-scroll-proportion="0.6494961" vertical-offset="0" max-vertical-offset="893">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/HireMe/Components/FieldBuilders.php">
+    <entry file="file://$PROJECT_DIR$/app/views/users/registro.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="44" selection-start="3127" selection-end="3127" vertical-scroll-proportion="0.7413214" vertical-offset="2847" max-vertical-offset="3857">
-          <folding>
-            <element signature="e#36#76#0" expanded="true" />
-          </folding>
+        <state line="20" column="12" selection-start="622" selection-end="641" vertical-scroll-proportion="0.6114222" vertical-offset="34" max-vertical-offset="957">
+          <folding />
         </state>
       </provider>
     </entry>
