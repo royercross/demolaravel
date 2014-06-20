@@ -2,6 +2,8 @@
 
 // Composer: "fzaninotto/faker": "v1.3.0"
 use Faker\Factory as Faker;
+use HireMe\Entities\User;
+use HireMe\Entities\Candidato;
 
 class CandidatoTableSeeder extends Seeder {
 
@@ -16,7 +18,7 @@ class CandidatoTableSeeder extends Seeder {
             $user = User::create([
                 'nombre_completo'   => $nombre_completo,
                 'email'             => $faker->email,
-                'password'          => \Hash::make(123456),
+                'password'          => '123456',
                 'tipo'              => 'candidato'
             ]);
 
@@ -24,7 +26,7 @@ class CandidatoTableSeeder extends Seeder {
                 'id'            => $user->id,
                 'pagina_web'    => $faker->url,
                 'descripcion'   => $faker->text(200),
-                'tipo_trabajo'  => $faker->randomElement(['tiempo_completo','parcial','freelancer']),
+                'tipo_trabajo'  => $faker->randomElement(['Tiempo Completo','Parcial','Freelancer']),
                 'categoria_id'  => $faker->randomElement([1,2,3]),
                 'disponible'    => true,
                 'slug'          =>  \Str::slug($nombre_completo)
